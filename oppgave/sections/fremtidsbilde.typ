@@ -20,5 +20,8 @@ Ved å utnytte API-er for banktransaksjoner og betalinger så kan platformselska
 
 == Kryptovaluta og betalingsløsninger
 
-Klarna tilbyr en brukervennlig betalingsløsning som forenkler netthandel ved å gi forbrukere muligheten til å betale i avdrag eller utsette betalingen. I fremtiden kan det være sannsynlig at selskaper som Klarna vil inkludere kryptovaluta som en del av sine betalingsalternativer eller gjøre konverteringen mellom krypto og vanlig valuta slik Stripe gjør i dag #cite(<stripeStablecoin>) #cite(<stripeOnramp>). Kryptovaluta har potensial til å utfordre tradisjonelle banker ved å tilby innovative betalingsløsninger og redusere transaksjonskostnader #cite(<cryptoFees>). Selv om kryptovaluta som betalingsløsning foreløpig har hatt begrenset fokus i Norge #cite(<cryptoassets>), kan Klarna ved å implementere dette, tiltrekke seg kunder som ønsker å integrere kryptovaluta i sin daglige økonomi.
+Klarna tilbyr en brukervennlig betalingsløsning som forenkler netthandel ved å gi forbrukere muligheten til å betale i avdrag eller utsette betalingen. I fremtiden kan det være sannsynlig at selskaper som Klarna vil inkludere kryptovaluta som en del av sine betalingsalternativer eller gjøre konverteringen mellom krypto og vanlig valuta slik Stripe gjør i dag #cite(<stripeStablecoin>) #cite(<stripeOnramp>). Dette kan forståes basert på følgende utsagn av Klarna sin administrerende direktør: #quote(
+  attribution: [#cite(<klarnaSeb>)],
+)[Ok. I give up. Klarna and me will embrace crypto! More to come.]
+Klarna har potensial til å utfordre tradisjonelle banker ved å tilby innovative betalingsløsninger og redusere transaksjonskostnader #cite(<cryptoFees>). Selv om kryptovaluta som betalingsløsning foreløpig har hatt begrenset fokus i Norge #cite(<cryptoassets>), kan Klarna ved å implementere dette, tiltrekke seg kunder som ønsker å integrere kryptovaluta i sin daglige økonomi.
 
