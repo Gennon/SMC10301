@@ -16,7 +16,7 @@ En fordel, for platformselskaper ved innføringen av PSD3, er at det legger prem
 
 == Transaksjonskostnader
 
-Ved å utnytte API-er for banktransaksjoner og betalinger så kan platformselskaper som Klarna tilby merverdi til kundene ved å gi dem en oversikt over sine økonomiske data i bytte mot at selskapet kan benytte data til å analysere brukernes atferd og preferanser. Ser man litt frem i tid så er det mulig at Klarna kan tilby en mulighet til å forutse forbrukernes behov og tilby dem produkter og tjenester som er skreddersydd for dem slik Amazon har prøvd i mange år #cite(<amazonPredict>) #cite(<amazonPatent>). Ved å feks bruke data til å se når forbrukerne får lønn og når de bruker penger så kan Klarna tilby dem produkter og tjenester som er tilpasset deres økonomiske situasjon. Dette fører til at det blir lavere transaksjonskostnader i form av at det blir enklere for forbrukerne å handle på.
+Ved å utnytte API-er for banktransaksjoner og betalinger så kan platformselskaper som Klarna tilby merverdi til kundene ved å gi dem en oversikt over sine økonomiske data i bytte mot at selskapet kan benytte data til å analysere brukernes atferd og preferanser. Ser man litt frem i tid så er det mulig at Klarna kan tilby en mulighet til å forutse forbrukernes behov og tilby dem produkter og tjenester som er skreddersydd for dem slik Amazon har prøvd i mange år #cite(<amazonPredict>) #cite(<amazonPatent>). Ved å feks bruke data til å se når forbrukerne får lønn og når de bruker penger så kan Klarna tilby dem produkter og tjenester som er tilpasset deres økonomiske situasjon. Dette fører til at det blir lavere transaksjonskostnader i form av at det blir enklere for forbrukerne å handle varer.
 
 == Kryptovaluta og betalingsløsninger
 

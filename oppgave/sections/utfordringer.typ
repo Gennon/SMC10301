@@ -1,5 +1,9 @@
 = Utfordringer
 
+Den store utfordringen for tradisjonelle banker i fremtiden vil være å tilpasse seg den økende konkurransen fra fintech-selskaper som Klarna uten at de mister kontakten til kundene og blir kun en service tilbyder. Det har til nå gått bra for bankene, men finctech-selskapene har lært av sine feil og har styrket seg på å bygge opp kunnskap på de feltene der bankene stort sett har hatt sin styrke #cite(<forbesFintechThreat>).
+Den andre store utfordringen vil være hvis bankene ikke er nødvendige lengre. Det vil si at folk flest slutter å benytte sentralbankpenger og i stedet benytter kryptovaluta som betalingsmiddel. Det vil i så fall være en stor utfordring for bankene da de vil miste inntektene fra gebyrer og renter på lån. Det vil også være en utfordring for sentralbankene og myndighetene da de vil miste kontrollen over pengemengden i samfunnet og miste muligheten til å regulere og overvåke finanssystemet. Utfordringen for samfunnet vil dermed øke som helhet da det vil kunne føre til økt kriminalitet og skatteunndragelse. 
+
+
 == Konkurranse
 
 Fintech-selskaper utfordrer tradisjonelle banker ved å tilby innovative løsninger og tjenester som er mer tilpasset kundenes behov. Det vil kunne gjøre at bankene må tilpasse seg og utvikle nye produkter og tjenester for å forbli konkurransedyktige. 
@@ -34,5 +38,5 @@ Banker vil fortsatt være grunnstammen i det finansielle systemet så lenge man 
 
 == Svakheter
 
-Tradisjonelle banker har en svakhet i at de ikke har den samme fleksibiliteten og innovasjonsevnen som fintech-selskaper. De er ofte bundet av regulatoriske krav og interne prosesser som kan hindre dem i å tilpasse seg raskt til endrede markedsforhold. Bankene har også en tendens til å være mer konservative i sin tilnærming til teknologi og innovasjon, noe som kan gjøre det vanskelig for dem å konkurrere med mer agile fintech-selskaper. Mange banker krever betydelig digital transformasjon for å kunne komme i en posisjon til å konkurrere og oppretteholde sin markedsposisjon #cite(<mckinsey>).
+Tradisjonelle banker har en svakhet i at de ikke har den samme fleksibiliteten og innovasjonsevnen som fintech-selskaper. De er ofte bundet av regulatoriske krav og interne prosesser som kan hindre dem i å tilpasse seg raskt til endrede markedsforhold. Bankene har også en tendens til å være mer konservative i sin tilnærming til teknologi og innovasjon, noe som kan gjøre det vanskelig for dem å konkurrere med mer agile fintech-selskaper. Mange banker krever betydelig digital transformasjon for å kunne komme i en posisjon til å konkurrere og oppretteholde sin markedsposisjon #cite(<mckinsey>). Dette er en stor svakhet i forhold til å kunne samarbeide med fintech-selskaper og tilby Bank as a Service-løsninger. Frustrasjonen over at det tar lang tid å få til endringer i bankene kan føre til at fintech-selskaper velger å samarbeide med andre type selskaper eller banker #cite(<forbesFintechThreat>). 
 

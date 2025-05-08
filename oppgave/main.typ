@@ -31,7 +31,7 @@
   font-family: "Times New Roman",
   font-size: 12pt,
   region: "us",
-  language: "en",
+  language: "no",
   paper-size: "a4",
   implicit-introduction-heading: false,
   abstract-as-description: false,
