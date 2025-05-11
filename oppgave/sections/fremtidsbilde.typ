@@ -7,11 +7,11 @@ Selskaper som Klarna kan defineres som platformselskaper, en forretningsmodell s
 Ved å tilby en plattform for betaling og finansiering, kan Klarna også samle inn store mengder data om forbrukernes atferd og preferanser. Dette gir dem muligheten til å tilby mer målrettede og relevante produkter og tjenester, noe som kan føre til økt kundelojalitet og høyere inntekter. Klarna kan også bruke denne informasjonen til å utvikle nye produkter og tjenester som bedre møter kundenes behov.
 
 
-== Reguleringer
+== Reguleringer og direktiver
 
-Reguleringer som PSD2 og PSD3 åpner opp for økt konkurranse i finansnæringen ved å tillate tredjepartsleverandører å få tilgang til bankdata og tilby betalingsløsninger. Dette har ført til en økning i antall fintech-selskaper som tilbyr innovative løsninger og tjenester, noe som kan utfordre tradisjonelle banker. PSD2 og PSD3 har også ført til økt fokus på sikkerhet og personvern, noe som er viktig for å bygge tillit mellom forbrukere og finansinstitusjoner.
+Reguleringer som PSR og FiDA åpner opp for økt konkurranse i finansnæringen ved å tillate tredjepartsleverandører å få tilgang til bankdata og tilby betalingsløsninger. Mulighetene dette gir har ført til en økning i antall fintech-selskaper som tilbyr innovative løsninger og tjenester, noe som kan utfordre tradisjonelle banker. PSD2 og PSD3 har også ført til økt fokus på sikkerhet og personvern, noe som er viktig for å bygge tillit mellom forbrukere og finansinstitusjoner.
 
-En fordel, for platformselskaper ved innføringen av PSD3, er at det legger premisser for bankene til å utvikle API-er som følger en standardisert tilnærming #cite(<psd3>), noe som kan gjøre det enklere for fintech-selskaper å integrere med bankene. PSD3 er planlagt å bli innført innen 2030.
+En fordel, for platformselskaper ved innføringen av PSD3, PSR og FiDA, er at det legger premisser for bankene til å utvikle API-er som følger en standardisert tilnærming #cite(<psd3>) #cite(<fida>) #cite(<fidaEy>), noe som kan gjøre det enklere for fintech-selskaper å integrere med bankene. PSD3, PSR og FiDA er planlagt å bli innført innen 2030.
 
 
 == Transaksjonskostnader
@@ -23,5 +23,8 @@ Ved å utnytte API-er for banktransaksjoner og betalinger så kan platformselska
 Klarna tilbyr en brukervennlig betalingsløsning som forenkler netthandel ved å gi forbrukere muligheten til å betale i avdrag eller utsette betalingen. I fremtiden kan det være sannsynlig at selskaper som Klarna vil inkludere kryptovaluta som en del av sine betalingsalternativer eller gjøre konverteringen mellom krypto og vanlig valuta slik Stripe gjør i dag #cite(<stripeStablecoin>) #cite(<stripeOnramp>). Dette kan forståes basert på følgende utsagn av Klarna sin administrerende direktør: #quote(
   attribution: [#cite(<klarnaSeb>)],
 )[Ok. I give up. Klarna and me will embrace crypto! More to come.]
-Klarna har potensial til å utfordre tradisjonelle banker ved å tilby innovative betalingsløsninger og redusere transaksjonskostnader #cite(<cryptoFees>). Selv om kryptovaluta som betalingsløsning foreløpig har hatt begrenset fokus i Norge #cite(<cryptoassets>), kan Klarna ved å implementere dette, tiltrekke seg kunder som ønsker å integrere kryptovaluta i sin daglige økonomi.
+Klarna har potensial til å utfordre tradisjonelle banker ved å tilby innovative betalingsløsninger og redusere transaksjonskostnader #cite(<cryptoFees>). Selv om kryptovaluta som betalingsløsning foreløpig har hatt begrenset fokus i Norge #cite(<cryptoassets>), kan Klarna ved å implementere dette, tiltrekke seg kunder som ønsker å integrere kryptovaluta i sin daglige økonomi. Når kryptovaluta blir enklerer å benytte og mer tilgjengelig for forbrukerne, kan det føre til økt etterspørsel etter kryptovaluta som betalingsmiddel #cite(<cryptoDemographic>). Da får man en fin sirkel av tilbud og etterspørsel.
 
+== Bank as a Service
+
+I det mest ekstreme tilfellet så kan man se for seg at noen fintech-selskaper som Klarna kan også gå inn i rollen som tilbyder av lån og spareprodukter, og dermed bli en slags bank i seg selv. FiDA åpner opp for at man får tilgang til den informasjonen #cite(<fida>) #cite(<fidaEy>) og det vil føre til at Klarna kan f.eks. tilby en oversikt over lån og spareprodukter hvor kundene enkelt med et par klikk kan flytte sine lån og spareprodukter uten at en bank har kontakt med kunden. Det samme vil også kunne gjelde for pensjons- og forsikringsprodukter.

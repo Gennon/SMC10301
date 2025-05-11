@@ -1,5 +1,6 @@
 = Organisatoriske utfordringer
 
+
 == Ombygging, nedbygging eller oppbygging
 
 Selskapene som skal gjennomføre en digital transformasjon må ta stilling til om de skal bygge om organisasjonen eller systemer, bygge ned eksisterende eller bygge opp nye. Det er mange faktorer som spiller inn i denne vurderingen, blant annet kostnader, tid og risiko. Det er også viktig å vurdere hvordan endringene vil påvirke ansatte og kunder.

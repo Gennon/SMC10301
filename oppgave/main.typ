@@ -5,7 +5,7 @@
 #let doc-title = [Klarna, din neste bank?]
 
 #show: word-count.with(  
-  exclude: (versatile-apa, outline, heading, bibliography, appendix, <no-wc>),
+  exclude: (outline, bibliography, appendix, <no-wc>),
 )
 
 #show: versatile-apa.with(
@@ -37,16 +37,11 @@
   abstract-as-description: false,
 )
 
-
-
-#[Antall ord]: #total-words <no-wc>
-#pagebreak()
-
-#outline()
+#outline(title: [Innholdsfortegnelse])
 
 // #outline(target: figure.where(kind: table), title: [Tables])
-// #pagebreak()
-// #outline(target: figure.where(kind: image), title: [Figures])
+#pagebreak()
+#outline(target: figure.where(kind: image), title: [Figurer])
 // #pagebreak()
 // #outline(target: figure.where(kind: math.equation), title: [Equations])
 // #pagebreak()
@@ -76,9 +71,15 @@
 #bibliography(
   "bibliography/ref.bib", // or ref.yml
   full: false,
-  title: auto,
+  title: [Bibliografi],
   style: "apa",
 )
+
+#pagebreak()
+#include "sections/refleksjoner.typ"
+
+#pagebreak()
+#include "sections/bruk-av-ki.typ"
 
 #show: appendix
 

@@ -64,5 +64,9 @@ Det er definert fire nivåer av digital modenhet i @fig:digital-modenhet og det 
 Det kan godt hende at noen banker vil ha en fordel av å samarbeide med fintech-selskaper og kun tilby Bank as a Service-løsninger. Det vil si at de kan nedbemanne noen avdelinger og heller bare fokusere på kjernevirksomheten som er ren bankdrift og takle kompliserte reguleringer. Det vil i så fall være et stor fordel for både banker og fintech-selskaper. Bankene vil kunne tilby sine tjenester til flere kunder og fintech-selskaper vil kunne få hjelp til å håndtere regulatoriske krav og tilsyn. 
 Andre fordeler med å samarbeide med fintech-selskaper er at de vil kunne lage bedre løsninger for kundene og tilby dem merverdi hvor banktjenester er en del av en større plattform. Hvis bankene ønsker så bør de kunne utnytte muligheten til å få en større andel av datainnsamlingen og analysen av dataene som fintech-selskapene sitter på. Det vil kunne gi bankene en bedre forståelse av kundenes behov og at de kan tilby dem produkter og tjenester som er mer tilpasset deres behov. 
 
+== Bankenes omfavnelse av kryptovaluta
 
+Det er en mulig fremtid at bankene vil omfavne kryptovaluta og tilby det som en del av sine tjenester. Dette kan innebære å tilby kryptovaluta som betalingsmiddel, samt å utvikle produkter og tjenester som er tilpasset kryptovaluta. Bankene vil kunne tilby kundene en trygg og sikker måte å bruke kryptovaluta på, samt å gi dem tilgang til informasjon og ressurser om kryptovaluta #cite(<cryptoBanks>). 
+
+For å gjennomføre dette så må de bankene som tar på seg den utfordringen gjennomføre en digital transformasjon, for dette er ikke noe de har på plass i dag.
 
